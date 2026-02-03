@@ -1,0 +1,16 @@
+{
+  "name": "ちょい家事",
+  "short_name": "ちょい家事",
+  "description": "3分だけ、これだけ。やる気いらずの家事",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4caf50",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
